@@ -30,7 +30,7 @@ Image "5Hokkaido"
 											
 											
 											
-	JPEG		QP	bpp	size (B)		PSNR	SSIM	FSIMc	GMSD	VIFP
+	JPEG		QP	bpp	size (B)	PSNR	SSIM	FSIMc	GMSD	 VIFP
 			1	0,087	101003		22.44	0.6148	0.8702	0.2081	 0.1111
 			10	0,179	208297		28.38	0.7356	0.9760	0.1127	 0.2538
 			20	0,317	369409		31.14	0.8182	0.9947	0.0621	 0.3795
